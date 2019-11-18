@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Application to display sights around Bulgaria with basic functionalities. This project is made using ejs, html, css, bootstrap, express, mongodb. 
+Application to display sights around Bulgaria with basic functionalities. This project is made using ejs, html, css, bootstrap, express, mongodb. Made from a course taken on Udemy.
 
 ## Some Functionalities Include
 
